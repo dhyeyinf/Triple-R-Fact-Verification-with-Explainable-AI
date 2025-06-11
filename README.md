@@ -44,7 +44,7 @@ The dataset is ideal for training models in misinformation detection and explain
 - Explored label distribution and evidence types to understand dataset complexity.
 
 ### 2. Baseline Modeling
-- Implemented TF-IDF vectorization with Logistic Regression as a baseline.
+- Implemented [TF-IDF](https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/) vectorization with Logistic Regression as a baseline.
 - Evaluated performance using accuracy, F1-score, and confusion matrix.
 
 ### 3. Advanced Modeling
